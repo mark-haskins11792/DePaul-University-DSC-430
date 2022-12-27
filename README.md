@@ -1,2 +1,2 @@
-# DePaul-University
-DePaul DSC 430 Programming Assignments
+# DePaul-University DSC 430
+
